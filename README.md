@@ -1,4 +1,3 @@
-
 ## 👋 Hi there! I'm Waleit
 
 Independent developer. Seek knowledge, think and practice.
