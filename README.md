@@ -1,10 +1,11 @@
-## 👋 Hello! I'm 雷天行(waleit)
+
+## 👋 Hi there! I'm Waleit
 
 Independent developer. Seek knowledge, think and practice.
 
-Welcome to my blog. [Let's go!](https://blog.waleit.com/)
+Welcome to my blog. [let’s dive in!](https://blog.waleit.com/)
 
-[More about myself](https://waleit.com/)
+[Learn more about me](https://waleit.com/)
 
 <!--
 **waleit/waleit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
